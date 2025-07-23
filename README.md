@@ -1,6 +1,6 @@
 # 🔧 Sistema de Control de Temperatura con Activación de Ventilación
 
-Proyecto integrador desarrollado en la asignatura **Electrónica Digital II**, que implementa un sistema embebido basado en el microcontrolador **PIC16F887** para monitorear la temperatura ambiente y activar automáticamente un ventilador de refrigeración cuando se supera un umbral definido.
+Proyecto integrador de **Electrónica Digital II**. Implementa un sistema embebido basado en el microcontrolador **PIC16F887** para monitorear la temperatura ambiente y activar automáticamente un ventilador de refrigeración cuando se supera un umbral definido.
 
 ---
 
@@ -33,7 +33,7 @@ Proyecto integrador desarrollado en la asignatura **Electrónica Digital II**, q
 - ✅ Control de ventilador ante temperaturas reales
 - ✅ Comunicación exitosa por USART con terminal
 - ✅ Visualización correcta en displays con multiplexado dinámico
-- ⚠️ Observación: En 10% de los casos, los displays no inicializan correctamente tras reset manual
+
 
 
 
