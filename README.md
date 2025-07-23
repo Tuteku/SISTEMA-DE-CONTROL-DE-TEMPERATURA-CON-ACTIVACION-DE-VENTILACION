@@ -1,0 +1,2 @@
+# SISTEMA-DE-CONTROL-DE-TEMPERATURA-CON-ACTIVACION-DE-VENTILACION
+Proyecto integrador de Electronica Digital 2
