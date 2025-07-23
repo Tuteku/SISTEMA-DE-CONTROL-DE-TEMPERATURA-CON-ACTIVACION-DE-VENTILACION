@@ -34,6 +34,3 @@ Proyecto integrador de **Electrónica Digital II**. Implementa un sistema embebi
 - ✅ Comunicación exitosa por USART con terminal
 - ✅ Visualización correcta en displays con multiplexado dinámico
 
-
-
-
